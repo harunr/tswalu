@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#f0ede4}.cls-2{fill:#f0ede4}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Arrow" transform="translate(-729 -736)">
+        <g id="Ellipse_6" class="cls-1" data-name="Ellipse 6" transform="translate(729 736)">
+            <circle cx="15.5" cy="15.5" r="15.5" class="cls-3"/>
+            <circle cx="15.5" cy="15.5" r="15" class="cls-4"/>
+        </g>
+        <path id="ic_keyboard_backspace_24px" d="M12.488 8.636H5.019l1.887-1.893L6.163 6 3 9.163l3.163 3.163.743-.743L5.019 9.69h7.469z" class="cls-2" transform="rotate(180 376.244 380.5)"/>
+    </g>
+</svg>

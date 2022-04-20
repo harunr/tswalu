@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.748" height="45.467" viewBox="0 0 74.748 45.467">
+    <defs>
+        <style>
+            .cls-1,.cls-5{fill:none}.cls-1{stroke:#fff}.cls-2,.cls-3{fill:#fff}.cls-3{font-size:10px;font-family:Montserrat-Light,Montserrat;font-weight:300}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Drag_and_hold" data-name="Drag and hold" transform="translate(-355 -4486.244)">
+        <g id="Ellipse_1294" class="cls-1" data-name="Ellipse 1294" transform="translate(369.641 4486.244)">
+            <circle cx="22.733" cy="22.733" r="22.733" class="cls-4"/>
+            <circle cx="22.733" cy="22.733" r="22.233" class="cls-5"/>
+        </g>
+        <circle id="Ellipse_1295" cx="2.697" cy="2.697" r="2.697" class="cls-2" data-name="Ellipse 1295" transform="translate(355 4506.279)"/>
+        <circle id="Ellipse_1296" cx="2.697" cy="2.697" r="2.697" class="cls-2" data-name="Ellipse 1296" transform="translate(424.354 4506.279)"/>
+        <text id="Drag" class="cls-3" transform="translate(356.607 4501.71)">
+            <tspan x="24.255" y="10">Drag</tspan>
+        </text>
+    </g>
+</svg>
